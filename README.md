@@ -1,2 +1,1 @@
-# my-ai-prompt-and-skills
-my-ai-prompt-and-skills
+# My Ai Prompt And Skills
